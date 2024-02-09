@@ -1,7 +1,7 @@
 /* CSS Reset  */
 body {
   color: white;
-  background: url("/img/boxing.jpg");
+  background: url("../boxing.jpg");
   background-size: cover;
   height: 180vh;
   background-size: 100vw 200vh;
